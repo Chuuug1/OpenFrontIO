@@ -2,597 +2,633 @@
   "categories": ["north_america"],
   "custom_tribes": [
     {
-      "coordinates": [630, 2732],
+      "coordinates": [516, 2233],
       "name": "Laval"
     },
     {
-      "coordinates": [660, 2742],
+      "coordinates": [540, 2241],
       "name": "Longueuil"
     },
     {
-      "coordinates": [413, 2729],
+      "coordinates": [338, 2230],
       "name": "Gatineau"
     },
     {
-      "coordinates": [833, 2773],
+      "coordinates": [681, 2266],
       "name": "Sherbrooke"
     },
     {
-      "coordinates": [770, 2620],
+      "coordinates": [630, 2141],
       "name": "Trois-Rivières"
     },
     {
-      "coordinates": [922, 2556],
+      "coordinates": [754, 2089],
       "name": "Lévis"
     },
     {
-      "coordinates": [943, 2303],
+      "coordinates": [771, 1882],
       "name": "Chicoutimi"
     },
     {
-      "coordinates": [643, 2715],
+      "coordinates": [526, 2219],
       "name": "Terrebonne"
     },
     {
-      "coordinates": [681, 2779],
+      "coordinates": [557, 2272],
       "name": "Saint-Jean-sur-Richelieu"
     },
     {
-      "coordinates": [664, 2709],
+      "coordinates": [546, 2216],
       "name": "Repentigny"
     },
     {
-      "coordinates": [772, 2694],
+      "coordinates": [632, 2202],
       "name": "Drummondville"
     },
     {
-      "coordinates": [605, 2699],
+      "coordinates": [495, 2206],
       "name": "Saint-Jérôme"
     },
     {
-      "coordinates": [741, 2768],
+      "coordinates": [607, 2262],
       "name": "Granby"
     },
     {
-      "coordinates": [718, 2730],
+      "coordinates": [587, 2231],
       "name": "Saint-Hyacinthe"
     },
     {
-      "coordinates": [750, 2584],
+      "coordinates": [613, 2112],
       "name": "Shawinigan"
     },
     {
-      "coordinates": [668, 2665],
+      "coordinates": [549, 2178],
       "name": "Joliette"
     },
     {
-      "coordinates": [832, 2669],
+      "coordinates": [681, 2181],
       "name": "Victoriaville"
     },
     {
-      "coordinates": [1209, 2302],
+      "coordinates": [989, 1881],
       "name": "Rimouski"
     },
     {
-      "coordinates": [111, 2254],
+      "coordinates": [91, 1842],
       "name": "Rouyn-Noranda"
     },
     {
-      "coordinates": [237, 2294],
+      "coordinates": [194, 1874],
       "name": "Val-d'Or"
     },
     {
-      "coordinates": [1425, 2022],
+      "coordinates": [1166, 1653],
       "name": "Sept-Îles"
     },
     {
-      "coordinates": [1247, 2181],
+      "coordinates": [1020, 1782],
       "name": "Baie-Comeau"
     },
     {
-      "coordinates": [882, 2281],
+      "coordinates": [721, 1864],
       "name": "Alma"
     },
     {
-      "coordinates": [904, 2667],
+      "coordinates": [740, 2180],
       "name": "Thetford Mines"
     },
     {
-      "coordinates": [1312, 2238],
+      "coordinates": [1072, 1829],
       "name": "Matane"
     },
     {
-      "coordinates": [1627, 2230],
+      "coordinates": [1332, 1823],
       "name": "Gaspé"
     },
     {
-      "coordinates": [618, 2048],
+      "coordinates": [505, 1674],
       "name": "Chibougamau"
     },
     {
-      "coordinates": [755, 2447],
+      "coordinates": [618, 2000],
       "name": "La Tuque"
     },
     {
-      "coordinates": [451, 2562],
+      "coordinates": [371, 2095],
       "name": "Mont-Laurier"
     },
     {
-      "coordinates": [1102, 2398],
+      "coordinates": [902, 1960],
       "name": "Rivière-du-Loup"
     },
     {
-      "coordinates": [1218, 788],
+      "coordinates": [997, 642],
       "name": "Kuujjuaq"
     },
     {
-      "coordinates": [367, 1411],
+      "coordinates": [301, 1152],
       "name": "Radisson"
     },
     {
-      "coordinates": [1345, 1620],
+      "coordinates": [1101, 1323],
       "name": "Fermont"
     },
     {
-      "coordinates": [1704, 2003],
+      "coordinates": [1394, 1636],
       "name": "Havre-Saint-Pierre"
     },
     {
-      "coordinates": [706, 2665],
+      "coordinates": [577, 2178],
       "name": "Sorel-Tracy"
     },
     {
-      "coordinates": [805, 2792],
+      "coordinates": [658, 2282],
       "name": "Magog"
     },
     {
-      "coordinates": [286, 2039],
+      "coordinates": [234, 1666],
       "name": "Matagami"
     },
     {
-      "coordinates": [519, 440],
+      "coordinates": [425, 358],
       "name": "Puvirnituq"
     },
     {
-      "coordinates": [239, 1516],
+      "coordinates": [195, 1238],
       "name": "Wemindji"
     },
     {
-      "coordinates": [2321, 1746],
+      "coordinates": [1898, 1426],
       "name": "Blanc-Sablon"
     },
     {
-      "coordinates": [1883, 1997],
+      "coordinates": [1540, 1632],
       "name": "Natashquan"
     },
     {
-      "coordinates": [2879, 2257],
+      "coordinates": [2355, 1844],
       "name": "St. John's"
     },
     {
-      "coordinates": [2298, 2143],
+      "coordinates": [1880, 1751],
       "name": "Corner Brook"
     },
     {
-      "coordinates": [2639, 2084],
+      "coordinates": [2158, 1703],
       "name": "Gander"
     },
     {
-      "coordinates": [2533, 2105],
+      "coordinates": [2071, 1719],
       "name": "Grand Falls-Windsor"
     },
     {
-      "coordinates": [1977, 1498],
+      "coordinates": [1617, 1223],
       "name": "Happy Valley-Goose Bay"
     },
     {
-      "coordinates": [1362, 1595],
+      "coordinates": [1114, 1303],
       "name": "Labrador City"
     },
     {
-      "coordinates": [1801, 1005],
+      "coordinates": [1474, 821],
       "name": "Nain"
     },
     {
-      "coordinates": [2274, 1394],
+      "coordinates": [1860, 1138],
       "name": "Cartwright"
     },
     {
-      "coordinates": [1619, 2663],
+      "coordinates": [1325, 2176],
       "name": "Moncton"
     },
     {
-      "coordinates": [1483, 2798],
+      "coordinates": [1215, 2286],
       "name": "Saint John"
     },
     {
-      "coordinates": [1414, 2692],
+      "coordinates": [1157, 2201],
       "name": "Fredericton"
     },
     {
-      "coordinates": [1229, 2470],
+      "coordinates": [1006, 2018],
       "name": "Edmundston"
     },
     {
-      "coordinates": [1514, 2428],
+      "coordinates": [1239, 1983],
       "name": "Bathurst"
     },
     {
-      "coordinates": [1534, 2517],
+      "coordinates": [1254, 2057],
       "name": "Miramichi"
     },
     {
-      "coordinates": [1766, 2881],
+      "coordinates": [1445, 2355],
       "name": "Halifax"
     },
     {
-      "coordinates": [2120, 2612],
+      "coordinates": [1734, 2135],
       "name": "Sydney"
     },
     {
-      "coordinates": [1792, 2767],
+      "coordinates": [1466, 2262],
       "name": "Truro"
     },
     {
-      "coordinates": [1484, 3024],
+      "coordinates": [1214, 2472],
       "name": "Yarmouth"
     },
     {
-      "coordinates": [1797, 2627],
+      "coordinates": [1470, 2147],
       "name": "Charlottetown"
     },
     {
-      "coordinates": [1724, 2607],
+      "coordinates": [1411, 2131],
       "name": "Summerside"
     },
     {
-      "coordinates": [412, 2739],
+      "coordinates": [338, 2238],
       "name": "Ottawa"
     },
     {
-      "coordinates": [513, 2811],
+      "coordinates": [421, 2297],
       "name": "Cornwall"
     },
     {
-      "coordinates": [302, 2914],
+      "coordinates": [248, 2381],
       "name": "Kingston"
     },
     {
-      "coordinates": [264, 2658],
+      "coordinates": [217, 2172],
       "name": "Pembroke"
     },
     {
-      "coordinates": [679, 2910],
+      "coordinates": [555, 2378],
       "name": "Burlington"
     },
     {
-      "coordinates": [654, 2873],
+      "coordinates": [535, 2348],
       "name": "Plattsburgh"
     },
     {
-      "coordinates": [366, 2964],
+      "coordinates": [299, 2423],
       "name": "Watertown"
     },
     {
-      "coordinates": [1182, 2878],
+      "coordinates": [964, 2351],
       "name": "Bangor"
     },
     {
-      "coordinates": [1263, 2580],
+      "coordinates": [1034, 2109],
       "name": "Presque Isle"
     },
     {
-      "coordinates": [748, 2948],
+      "coordinates": [612, 2409],
       "name": "Montpelier"
     },
     {
-      "coordinates": [589, 2935],
+      "coordinates": [482, 2399],
       "name": "Lake Placid"
     },
     {
-      "coordinates": [1111, 35],
+      "coordinates": [909, 27],
       "name": "Kimmirut"
     },
     {
-      "coordinates": [285, 964],
+      "coordinates": [233, 787],
       "name": "Sanikiluaq"
+    },
+    {
+      "coordinates": [1571, 1989],
+      "name": "Îles-de-la-Madeleine"
+    },
+    {
+      "coordinates": [2056, 1976],
+      "name": "Saint-Pierre-et-Miquelon"
     }
   ],
   "display_name": "Québec",
   "id": "Quebec",
   "map": {
-    "height": 3124,
-    "num_land_tiles": 4485385,
-    "width": 2924
+    "height": 2552,
+    "num_land_tiles": 2974879,
+    "width": 2392
   },
   "map16x": {
-    "height": 781,
-    "num_land_tiles": 259601,
-    "width": 731
+    "height": 638,
+    "num_land_tiles": 170379,
+    "width": 598
   },
   "map4x": {
-    "height": 1562,
-    "num_land_tiles": 1089843,
-    "width": 1462
+    "height": 1276,
+    "num_land_tiles": 720887,
+    "width": 1196
   },
   "name": "Quebec",
   "nations": [
     {
-      "coordinates": [883, 2515],
+      "coordinates": [723, 2055],
       "flag": "Quebec",
       "name": "Québec"
     },
     {
-      "coordinates": [641, 2738],
+      "coordinates": [525, 2238],
       "name": "Montréal"
     },
     {
-      "coordinates": [705, 2774],
+      "coordinates": [577, 2267],
       "name": "Montérégie"
     },
     {
-      "coordinates": [512, 2569],
+      "coordinates": [419, 2100],
       "name": "Laurentides"
     },
     {
-      "coordinates": [637, 2627],
+      "coordinates": [521, 2147],
       "name": "Lanaudière"
     },
     {
-      "coordinates": [382, 2604],
+      "coordinates": [313, 2128],
       "name": "Outaouais"
     },
     {
-      "coordinates": [727, 2515],
+      "coordinates": [595, 2055],
       "name": "Mauricie"
     },
     {
-      "coordinates": [800, 2669],
+      "coordinates": [655, 2181],
       "name": "Centre-du-Québec"
     },
     {
-      "coordinates": [839, 2773],
+      "coordinates": [687, 2267],
       "name": "Estrie"
     },
     {
-      "coordinates": [966, 2628],
+      "coordinates": [790, 2148],
       "name": "Chaudière-Appalaches"
     },
     {
-      "coordinates": [1222, 2357],
+      "coordinates": [1000, 1926],
       "name": "Bas-Saint-Laurent"
     },
     {
-      "coordinates": [1512, 2233],
+      "coordinates": [1237, 1825],
       "name": "Gaspésie"
     },
     {
-      "coordinates": [1920, 2434],
-      "name": "Îles-de-la-Madeleine"
-    },
-    {
-      "coordinates": [1774, 2123],
+      "coordinates": [1451, 1735],
       "name": "Anticosti"
     },
     {
-      "coordinates": [889, 2256],
+      "coordinates": [728, 1843],
       "name": "Saguenay-Lac-Saint-Jean"
     },
     {
-      "coordinates": [187, 2255],
+      "coordinates": [154, 1843],
       "name": "Abitibi-Témiscamingue"
     },
     {
-      "coordinates": [492, 2055],
+      "coordinates": [402, 1680],
       "name": "Jamésie"
     },
     {
-      "coordinates": [1282, 2074],
+      "coordinates": [1049, 1695],
       "name": "Côte-Nord"
     },
     {
-      "coordinates": [2089, 1847],
+      "coordinates": [1709, 1509],
       "name": "Basse-Côte-Nord"
     },
     {
-      "coordinates": [380, 1632],
+      "coordinates": [311, 1333],
       "name": "Eeyou Istchee"
     },
     {
-      "coordinates": [688, 1380],
+      "coordinates": [563, 1127],
       "name": "Baie-James"
     },
     {
-      "coordinates": [1178, 819],
+      "coordinates": [964, 669],
       "name": "Ungava"
     },
     {
-      "coordinates": [1391, 1594],
+      "coordinates": [1138, 1302],
       "name": "Labrador West"
     },
     {
-      "coordinates": [886, 637],
+      "coordinates": [725, 520],
       "flag": "Nunavik",
       "name": "Nunavik"
     },
     {
-      "coordinates": [1602, 1797],
+      "coordinates": [1310, 1468],
       "name": "Innu"
     },
     {
-      "coordinates": [1290, 1086],
+      "coordinates": [1055, 887],
       "name": "Naskapi"
     },
     {
-      "coordinates": [1361, 1305],
+      "coordinates": [1113, 1065],
       "name": "Matimekush"
     },
     {
-      "coordinates": [481, 664],
+      "coordinates": [394, 541],
       "name": "Inukjuak"
     },
     {
-      "coordinates": [739, 182],
+      "coordinates": [604, 148],
       "name": "Salluit"
     },
     {
-      "coordinates": [1464, 846],
+      "coordinates": [1197, 690],
       "name": "Kangiqsualujjuaq"
     },
     {
-      "coordinates": [492, 1156],
+      "coordinates": [402, 944],
       "name": "Kuujjuarapik"
     },
     {
-      "coordinates": [312, 1418],
+      "coordinates": [256, 1158],
       "name": "Chisasibi"
     },
     {
-      "coordinates": [828, 1860],
+      "coordinates": [677, 1520],
       "name": "Mistissini"
     },
     {
-      "coordinates": [1584, 635],
+      "coordinates": [1298, 517],
       "name": "Torngat"
     },
     {
-      "coordinates": [37, 1820],
+      "coordinates": [31, 1487],
       "name": "Moose Cree"
     },
     {
-      "coordinates": [43, 2297],
+      "coordinates": [35, 1877],
       "name": "Timiskaming"
     },
     {
-      "coordinates": [628, 2397],
+      "coordinates": [514, 1959],
       "name": "Atikamekw"
     },
     {
-      "coordinates": [281, 2442],
+      "coordinates": [230, 1995],
       "flag": "Anishinaabe",
       "name": "Anishinaabe"
     },
     {
-      "coordinates": [860, 2451],
+      "coordinates": [703, 2003],
       "name": "Wendat"
     },
     {
-      "coordinates": [1492, 2540],
+      "coordinates": [1220, 2076],
       "flag": "Mi'kmaq",
       "name": "Mi'kmaq"
     },
     {
-      "coordinates": [1292, 2529],
+      "coordinates": [1057, 2067],
       "name": "Wolastoqiyik"
     },
     {
-      "coordinates": [1157, 2624],
+      "coordinates": [947, 2145],
       "name": "Wabanaki"
     },
     {
-      "coordinates": [499, 2837],
+      "coordinates": [408, 2319],
       "flag": "Haudenosaunee",
       "name": "Haudenosaunee"
     },
     {
-      "coordinates": [1784, 1013],
+      "coordinates": [1459, 827],
       "flag": "Nunatsiavut",
       "name": "Nunatsiavut"
     },
     {
-      "coordinates": [2252, 1540],
+      "coordinates": [1842, 1258],
       "name": "NunatuKavut"
     },
     {
-      "coordinates": [2539, 2111],
+      "coordinates": [2077, 1725],
       "flag": "Newfoundland",
       "name": "Newfoundland"
     },
     {
-      "coordinates": [2821, 2287],
+      "coordinates": [2307, 1869],
       "name": "Avalon"
     },
     {
-      "coordinates": [2347, 2097],
+      "coordinates": [1922, 1712],
       "name": "Western Newfoundland"
     },
     {
-      "coordinates": [1970, 1498],
+      "coordinates": [1612, 1224],
       "flag": "newfoundlandandlabrador",
       "name": "Labrador"
     },
     {
-      "coordinates": [1409, 2693],
+      "coordinates": [1153, 2201],
       "flag": "newbrunswick",
       "name": "New Brunswick"
     },
     {
-      "coordinates": [1572, 2411],
+      "coordinates": [1286, 1970],
       "name": "Acadie"
     },
     {
-      "coordinates": [1771, 2826],
+      "coordinates": [1449, 2309],
       "flag": "novascotia",
       "name": "Nova Scotia"
     },
     {
-      "coordinates": [2076, 2624],
+      "coordinates": [1698, 2144],
       "name": "Cape Breton"
     },
     {
-      "coordinates": [1789, 2611],
+      "coordinates": [1464, 2134],
       "flag": "princeedwardisland",
       "name": "Prince Edward Island"
     },
     {
-      "coordinates": [2553, 2419],
-      "flag": "pm",
-      "name": "Saint-Pierre-et-Miquelon"
-    },
-    {
-      "coordinates": [342, 2766],
+      "coordinates": [280, 2261],
       "flag": "ontario",
       "name": "Ontario"
     },
     {
-      "coordinates": [538, 2975],
+      "coordinates": [440, 2432],
       "flag": "New_York",
       "name": "New York"
     },
     {
-      "coordinates": [186, 2891],
+      "coordinates": [152, 2363],
       "name": "Quinte"
     },
     {
-      "coordinates": [272, 3093],
+      "coordinates": [222, 2528],
       "name": "Finger Lakes"
     },
     {
-      "coordinates": [733, 2942],
+      "coordinates": [602, 2404],
       "flag": "Vermont",
       "name": "Vermont"
     },
     {
-      "coordinates": [870, 2964],
+      "coordinates": [712, 2423],
       "flag": "New_Hampshire",
       "name": "New Hampshire"
     },
     {
-      "coordinates": [1110, 2876],
+      "coordinates": [908, 2351],
       "flag": "Maine",
       "name": "Maine"
     },
     {
-      "coordinates": [1196, 0],
+      "coordinates": [979, 0],
       "flag": "Nunavut",
       "name": "Nunavut"
     },
     {
-      "coordinates": [2815, 0],
+      "coordinates": [2303, 0],
       "flag": "gl",
       "name": "Kalaallit Nunaat"
     }
   ],
+  "special_team_count": 2,
+  "teamGameSpawnAreas": {
+    "2": [
+      {
+        "height": 1325,
+        "width": 859,
+        "x": 0,
+        "y": 1227
+      },
+      {
+        "height": 1816,
+        "width": 1369,
+        "x": 1023,
+        "y": 736
+      }
+    ],
+    "3": [
+      {
+        "height": 916,
+        "width": 818,
+        "x": 0,
+        "y": 1636
+      },
+      {
+        "height": 1227,
+        "width": 981,
+        "x": 82,
+        "y": 0
+      },
+      {
+        "height": 1489,
+        "width": 1288,
+        "x": 1104,
+        "y": 1063
+      }
+    ]
+  },
   "themes": ["north_america"],
   "translation_key": "map.quebec"
 }
