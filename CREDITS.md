@@ -178,6 +178,18 @@ Public Domain
 
 1683 borders approximated from modern provinces.
 
+### Quebec Map
+
+Shorelines and lakes: GSHHG, Wessel, P., and W. H. F. Smith, 1996. [https://www.soest.hawaii.edu/pwessel/gshhg/](https://www.soest.hawaii.edu/pwessel/gshhg/)  
+Licensed under [LGPL-3.0](https://www.gnu.org/licenses/lgpl-3.0.html)
+
+Elevation: NOAA National Centers for Environmental Information. 2022: ETOPO 2022 Global Relief Model (60 arc-second bedrock, resampled to 5 arc-minutes).
+[https://doi.org/10.25921/fd45-gt74](https://doi.org/10.25921/fd45-gt74)  
+[Public Domain](https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.dem:etopo_2022)
+
+Borders, rivers and lakes: [Natural Earth](https://www.naturalearthdata.com/)  
+Public Domain
+
 ## FFA Rating
 
 ### OFstats
